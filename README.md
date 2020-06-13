@@ -9,3 +9,6 @@ Steps to run application:
    pip install -r requirements.txt && set API_TOKEN=ba7b9769d5e94ffd842ffaba0ff223f2
 4. Now type the following command "python src\hello.py" to start the application.
 5. Enter the ingredients and press enter.
+
+How to run unit tests:
+Follow the previous steps from 1 to 3. After that, type the following command "python tst\testService.py"
