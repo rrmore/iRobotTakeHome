@@ -1,6 +1,6 @@
 # iRobotTakeHome
 
-System OS: Windows
+System OS: Windows. make sure you are connected to the internet
 
 Steps to run application:
 1. Install python if not available.
@@ -11,4 +11,4 @@ Steps to run application:
 5. Enter the ingredients and press enter.
 
 How to run unit tests:
-Follow the previous steps from 1 to 3. After that, type the following command "python tst\testService.py"
+Follow the previous steps from 1 to 3. After that, type the following command "python testService.py"
